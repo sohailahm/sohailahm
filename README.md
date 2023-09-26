@@ -7,9 +7,12 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <h2 align="left">About Me </h2>
-- 🌱 I’m currently learning **Frontend and Backend Automation.**
-
-- 📫 How to reach me **sohailahm7@gmail.com**
+- 🔭 I’m currently working on content creation <br>
+- 👯 I’m looking to collaborate on Software testing-related content creation<br>
+- 🤝 I’m looking for help with Rest assured automation<br>
+- 🌱 I’m currently learning frontend and Backend Automation<br>
+- 💬 Ask me about Software Testing related things <br>
+- ⚡ Fun fact I think I am lazy but Awesome 😎
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
