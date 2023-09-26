@@ -27,12 +27,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohailahm&show_icons=true&locale=en" alt="sohailahm" /></p>
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sohailahm&" alt="sohailahm" /></p>
 -->
+<h2 align="left">GitHub Stats 📊 </h2>
 
+![](https://github-readme-stats.vercel.app/api?username=sohailahm&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sohailahm&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sohailahm&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api?username=sohailahm&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sohailahm&theme=nightowl&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sohailahm&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<h2 align="left">Random Dev Quote ✍️</h2>
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <h2 align="left">Random Funny Meme 😂</h2>
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
