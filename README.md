@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/sohailahm/sohailahm/blob/main/Sohail's%20Banner.gif)]()
+[![MasterHead](https://github.com/sohailahm/sohailahm/blob/main/Sohail's%20Banner1.gif)]()
 <h1 align="center">Hi 👋, I'm Sohail Ahmad</h1> 
 <h3 align="center">A passionate SQA Engineer from Pakistan</h3>
 <img align = "right" alt = "Coding" width = "400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
